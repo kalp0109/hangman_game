@@ -1,11 +1,4 @@
-# 🕹 Hangman Game – Data Engineering Edition
-
-A terminal-based Hangman game built using Python.
-
-This version runs completely in the command line and uses technology-related words (Data Engineering, Big Data, Cloud, etc.).
-
----
-
+# 🕹 Hangman Game 
 ## 🚀 Features
 
 - 🎯 Random word selection
@@ -16,7 +9,6 @@ This version runs completely in the command line and uses technology-related wor
 - 🔄 Restart option (if implemented)
 
 ---
-
 ## 🛠 Technologies Used
 
 - Python 3
@@ -25,7 +17,6 @@ This version runs completely in the command line and uses technology-related wor
 - Conditional logic & loops
 
 ---
-
 ## 📂 Project Structure
 
 HangmanGame/
@@ -36,19 +27,6 @@ HangmanGame/
 └── README.md
 
 ---
-
-## ▶️ How to Run
-
-1️⃣ Clone the repository:
-git clone https://github.com/yourusername/HangmanGame.git
-
-2️⃣ Go to project folder:
-cd HangmanGame
-
-3️⃣ Run the game:
-python hangman.py
-
-
 ## 📚 Concepts Practiced
 
 - Python loops (`for`, `while`)
@@ -59,7 +37,6 @@ python hangman.py
 - Basic game development logic
 
 ---
-
 ## 🎯 Learning Outcome
 
 This project helped strengthen:
@@ -69,7 +46,6 @@ This project helped strengthen:
 - Problem-solving skills
 
 ---
-
 ## 👩‍💻 Author
 
 Kalpana Pandit  
